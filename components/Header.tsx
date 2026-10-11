@@ -4,7 +4,7 @@ import Link from "next/link";
 const navLinks = [
   { href: "/", label: "მთავარი" },
   { href: "/menu", label: "მენიუ" },
-  { href: "/about", label: "ჩვენ შესახებ" },
+  { href: "/about", label: "ჩვენს შესახებ" },
   { href: "/gallery", label: "გალერეა" },
   { href: "/contact", label: "კონტაქტი" },
 ];

@@ -39,9 +39,9 @@ export default function Home() {
             <p className="hero-eyebrow">MAGELLAN CAFÉ</p>
 
             <h1>
-              ყოველი დღე იწყება
+              ადგილი, სადაც ტრადიციული გემო და
               <br />
-              <span>შენთვის შექმნილი გარემოთი.</span>
+              <span>თანამედროვე კულინარია ერთ სივრცეში ხვდება</span>
             </h1>
 
             <p className="hero-description">
@@ -65,7 +65,7 @@ export default function Home() {
           <div className="featured-heading">
             <div>
               <p className="section-eyebrow">OUR SELECTION</p>
-              <h2>ჩვენი არჩევანი</h2>
+              <h2>გემო, რომელიც გვაერთიანებს</h2>
             </div>
 
             <Link href="/menu" className="text-link">
