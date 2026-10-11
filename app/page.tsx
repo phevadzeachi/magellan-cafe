@@ -39,9 +39,9 @@ export default function Home() {
             <p className="hero-eyebrow">MAGELLAN CAFÉ</p>
 
             <h1>
-              ადგილი, სადაც ტრადიციული გემო და
+              ადგილი, სადაც ხარისხი
               <br />
-              <span>თანამედროვე კულინარია ერთ სივრცეში ხვდება</span>
+              <span>გემოდ იქცევა</span>
             </h1>
 
             <p className="hero-description">
